@@ -1,0 +1,8 @@
+Flask
+flask-cors
+firebase-admin
+numpy
+pandas
+scikit-learn
+joblib
+gunicorn
