@@ -8,7 +8,10 @@
     "build": "npx vite build",
     "build:dev": "npx vite build --mode development",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "npx vite preview"
+  },
+  "engines": {
+    "node": "18.x"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
